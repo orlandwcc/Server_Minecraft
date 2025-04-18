@@ -1,159 +1,56 @@
 {
-  "twilightforest:recipes/transportation/twilight_oak_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/time_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mining_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/easter": {
     "criteria": {
-      "coded_trigger": "2025-04-18 23:12:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/transportation/skyroot_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
+      "coded_trigger": "2025-04-18 23:45:28 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-04-18 23:12:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/transformation_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
+      "unlock_right_away": "2025-04-18 23:45:28 +0000"
     },
     "done": true
   },
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
-      "tick": "2025-04-18 23:12:16 +0000"
+      "tick": "2025-04-18 23:45:28 +0000"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2025-04-18 23:12:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2025-04-18 23:14:26 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/canopy_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/dark_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
+      "tick": "2025-04-18 23:45:28 +0000"
     },
     "done": true
   },
   "ironfurnaces:coal": {
     "criteria": {
-      "rainbowcoal": "2025-04-18 23:12:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
+      "rainbowcoal": "2025-04-18 23:45:28 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:stony_shore": "2025-04-18 23:12:16 +0000",
-      "minecraft:forest": "2025-04-18 23:14:38 +0000",
-      "minecraft:plains": "2025-04-18 23:14:39 +0000"
+      "minecraft:bamboo_jungle": "2025-04-18 23:45:29 +0000",
+      "minecraft:sparse_jungle": "2025-04-18 23:48:17 +0000"
     },
     "done": false
   },
-  "twilightforest:recipes/transportation/sorting_boat": {
-    "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/root": {
     "criteria": {
-      "auto": "2025-04-18 23:12:16 +0000"
+      "auto": "2025-04-18 23:45:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
+      "useitem": "2025-04-18 23:48:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "in_water": "2025-04-18 23:14:05 +0000"
+      "consumed_item": "2025-04-18 23:48:25 +0000"
     },
     "done": true
   },
